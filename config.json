@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtersalidate",
+        "uuid": 3097896,
+        "checksum": "1yg5p2"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
